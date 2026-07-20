@@ -1,0 +1,40 @@
+{
+  "name": "@apiverve/cli",
+  "version": "1.0.0",
+  "description": "APIVerve CLI — call 368+ APIs from one command.",
+  "bin": {
+    "apiverve": "./bin/apiverve.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "manifest.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "apiverve",
+    "api",
+    "apis",
+    "cli",
+    "command-line",
+    "weather",
+    "geocoding",
+    "validation",
+    "developer-tools",
+    "http"
+  ],
+  "author": "APIVerve",
+  "license": "MIT",
+  "homepage": "https://apiverve.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apiverve/cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apiverve/cli/issues"
+  }
+}
